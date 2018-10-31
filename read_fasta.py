@@ -1,5 +1,6 @@
 import sys
 
+# reads the provided file and returns the 
 def read_fasta(filename):
     sequence = ''
     f = open(filename)
